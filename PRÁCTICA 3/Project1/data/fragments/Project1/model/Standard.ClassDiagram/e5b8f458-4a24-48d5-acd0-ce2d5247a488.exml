@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="project1 Class diagram" version="4">
+  <OBJECT>
+    <ID name="project1 Class diagram" mc="Standard.ClassDiagram" uid="e5b8f458-4a24-48d5-acd0-ce2d5247a488"/>
+    <PID name="project1" mc="Standard.Package" uid="803eb611-16e2-4c12-b11b-f7b1d3abf289"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">116</ATT>
+      <ATT name="UiData"><![CDATA[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]]></ATT>
+      <ATT name="Name"><![CDATA[project1 Class diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="Usuario" mc="Standard.Class" uid="ea187afe-529e-4742-bd3b-191dd44c3198"/>
+        <REFOBJ>
+          <ID name="nombre" mc="Standard.Attribute" uid="53d10caa-5fd0-4328-80f3-4c54f7e41c54"/>
+        </REFOBJ>
+        <ID name="Empleado" mc="Standard.Class" uid="4b9cd5da-980e-4bcd-acc5-79f8029fb460"/>
+        <REFOBJ>
+          <ID name="sancion" mc="Standard.Attribute" uid="fca62b26-eca1-423d-8da6-b994983c70a4"/>
+        </REFOBJ>
+        <ID name="Publico" mc="Standard.Class" uid="03ebfb77-a948-4fec-ad47-48acab20be88"/>
+        <REFOBJ>
+          <ID name="numMaxPrestamos" mc="Standard.Attribute" uid="1209c2f4-f06a-4c30-b72a-da093f93de49"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="contadorPrestamosSinRetraso" mc="Standard.Attribute" uid="bc20bbff-5fd7-4bf5-8916-26e878aa5068"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="anyadirPrestamo" mc="Standard.Operation" uid="b30c34cb-e469-4f12-9c8d-2d80c227174e"/>
+        </REFOBJ>
+        <ID name="Prestamo" mc="Standard.Class" uid="fb6fc5b5-8cb5-47f9-8baf-7628a1352db7"/>
+        <REFOBJ>
+          <ID name="eliminarPrestamo" mc="Standard.Operation" uid="a30407b0-2c0a-4195-9f55-34e138f215c7"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="sancionarPorRetraso" mc="Standard.Operation" uid="2ed35e69-036a-49de-a8e1-59584cca1b28"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="eliminarSancion" mc="Standard.Operation" uid="30c6655d-6fa7-445c-8d83-9c7f55347c1b"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="subirContadorPrestamosSinRetraso" mc="Standard.Operation" uid="ad9b1a9d-daea-410d-a7ff-762b152e2be8"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="sancionarPorRetraso" mc="Standard.Operation" uid="56d82f68-bcff-4705-be15-da21124794bb"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="eliminarSancion" mc="Standard.Operation" uid="10a3b0eb-cf2a-4b3a-a6c0-36da668245fd"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="getNumMaxPrestamos" mc="Standard.Operation" uid="bd5d8af7-d532-4108-86ba-4d07080d74c1"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="subirContadorPrestamosSinRetraso" mc="Standard.Operation" uid="c41cd64f-156e-4c18-abcb-da2ef8ffcc2b"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="sancionarPorRetraso" mc="Standard.Operation" uid="7cbb28c8-7aef-4352-9749-a1cbcddda942"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Generalization" mc="Standard.Generalization" uid="d8686ef2-9a54-4cb6-9295-9f38a6062c70"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Generalization" mc="Standard.Generalization" uid="a1f647e4-14d1-4781-aad7-4c4ee4a71e18"/>
+        </REFOBJ>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="25db821a-2eca-4e82-a17d-39e9c148aff1"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

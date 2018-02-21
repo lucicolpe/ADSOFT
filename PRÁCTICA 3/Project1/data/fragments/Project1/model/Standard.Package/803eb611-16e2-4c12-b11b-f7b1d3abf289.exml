@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="project1" version="4">
+  <OBJECT>
+    <ID name="project1" mc="Standard.Package" uid="803eb611-16e2-4c12-b11b-f7b1d3abf289"/>
+    <PID name="Project1" mc="Standard.Project" uid="bb2ec58e-3488-4f14-8ba8-16105d1372e2"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[project1]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Declared">
+        <OBJECT>
+          <ID name="Usuario" mc="Standard.Instance" uid="7544a5d5-34d0-423e-994a-fd0b34e3de1b"/>
+          <ATTRIBUTES>
+            <ATT name="IsConstant">false</ATT>
+            <ATT name="MultiplicityMin"><![CDATA[1]]></ATT>
+            <ATT name="MultiplicityMax"><![CDATA[1]]></ATT>
+            <ATT name="Value"></ATT>
+            <ATT name="Name"><![CDATA[Usuario]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <COMP relation="Slot">
+              <OBJECT>
+                <ID name="AttributeLink" mc="Standard.AttributeLink" uid="8fbb0877-65cb-48e6-bb37-f4b1db4a4acf"/>
+                <ATTRIBUTES>
+                  <ATT name="Value"></ATT>
+                  <ATT name="Name"><![CDATA[AttributeLink]]></ATT>
+                  <ATT name="status">1970354901745664</ATT>
+                </ATTRIBUTES>
+                <DEPENDENCIES></DEPENDENCIES>
+              </OBJECT>
+            </COMP>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+      <COMP relation="OwnedElement">
+        <COMPID name="Usuario" mc="Standard.Class" uid="ea187afe-529e-4742-bd3b-191dd44c3198"/>
+        <COMPID name="Empleado" mc="Standard.Class" uid="4b9cd5da-980e-4bcd-acc5-79f8029fb460"/>
+        <COMPID name="Publico" mc="Standard.Class" uid="03ebfb77-a948-4fec-ad47-48acab20be88"/>
+        <COMPID name="Prestamo" mc="Standard.Class" uid="fb6fc5b5-8cb5-47f9-8baf-7628a1352db7"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="project1 Class diagram" mc="Standard.ClassDiagram" uid="e5b8f458-4a24-48d5-acd0-ce2d5247a488"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
